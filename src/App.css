@@ -1,0 +1,23 @@
+.App {
+    text-align: center;
+}
+
+body {
+    background: #434647;
+}
+
+.App-title {
+    font-size: 1.5em;
+}
+
+.notes {
+    display: inline-block;
+    background: #f8f5c0;
+    margin-top: 100px;
+    width: 50%;
+}
+
+.list ul {
+    list-style-type: none;
+    float: left;
+}
